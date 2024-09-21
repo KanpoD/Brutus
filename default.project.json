@@ -12,7 +12,7 @@
         }
       },
       "Knit": {
-        "$path": "lib/Knit/src"
+        "$path": "Packages/Knit.lua"
       },
       "Assets": {
         "$ignoreUnknownInstances": true,
